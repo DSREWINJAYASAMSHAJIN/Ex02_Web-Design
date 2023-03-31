@@ -19,10 +19,12 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+![WDIA EX NO 2 CODE](https://user-images.githubusercontent.com/127816515/229170283-2c05d27a-89bf-4c56-9638-8b8bb6408a3e.png)
 
 
 ## OUTPUT
 
+![WDIA EX NO 2 OUTPUT](https://user-images.githubusercontent.com/127816515/229170344-b5759958-3cfb-431c-bfa1-dcea20dddaa7.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
